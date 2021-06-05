@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\viney\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\viney\\.nuget\\packages"
+    ]
+  }
+}

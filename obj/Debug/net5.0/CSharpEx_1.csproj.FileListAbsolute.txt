@@ -1,0 +1,16 @@
+C:\Users\viney\Documents\CSharpEx_1\bin\Debug\net5.0\CSharpEx_1.exe
+C:\Users\viney\Documents\CSharpEx_1\bin\Debug\net5.0\CSharpEx_1.deps.json
+C:\Users\viney\Documents\CSharpEx_1\bin\Debug\net5.0\CSharpEx_1.runtimeconfig.json
+C:\Users\viney\Documents\CSharpEx_1\bin\Debug\net5.0\CSharpEx_1.runtimeconfig.dev.json
+C:\Users\viney\Documents\CSharpEx_1\bin\Debug\net5.0\CSharpEx_1.dll
+C:\Users\viney\Documents\CSharpEx_1\bin\Debug\net5.0\ref\CSharpEx_1.dll
+C:\Users\viney\Documents\CSharpEx_1\bin\Debug\net5.0\CSharpEx_1.pdb
+C:\Users\viney\Documents\CSharpEx_1\obj\Debug\net5.0\CSharpEx_1.csproj.AssemblyReference.cache
+C:\Users\viney\Documents\CSharpEx_1\obj\Debug\net5.0\CSharpEx_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viney\Documents\CSharpEx_1\obj\Debug\net5.0\CSharpEx_1.AssemblyInfoInputs.cache
+C:\Users\viney\Documents\CSharpEx_1\obj\Debug\net5.0\CSharpEx_1.AssemblyInfo.cs
+C:\Users\viney\Documents\CSharpEx_1\obj\Debug\net5.0\CSharpEx_1.csproj.CoreCompileInputs.cache
+C:\Users\viney\Documents\CSharpEx_1\obj\Debug\net5.0\CSharpEx_1.dll
+C:\Users\viney\Documents\CSharpEx_1\obj\Debug\net5.0\ref\CSharpEx_1.dll
+C:\Users\viney\Documents\CSharpEx_1\obj\Debug\net5.0\CSharpEx_1.pdb
+C:\Users\viney\Documents\CSharpEx_1\obj\Debug\net5.0\CSharpEx_1.genruntimeconfig.cache
